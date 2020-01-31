@@ -1,7 +1,8 @@
 name: 'docker deploy'
 description: 'Calls webhook to deploy docker image'
-icon: server
-color: green
+branding:
+  icon: server
+  color: green
 inputs:
   image:
     description: 'image url to push'
