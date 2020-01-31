@@ -1,5 +1,5 @@
-name: 'docker deploy'
-description: 'Calls webhook to deploy docker image'
+name: 'keel webhook deploy'
+description: 'Calls keel.sh webhook to deploy docker image'
 branding:
   icon: server
   color: green
